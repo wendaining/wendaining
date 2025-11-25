@@ -11,7 +11,7 @@ Hi! I'm wendaining. Currently a year 2 undergraduate majored in software enginee
 
 [![wendaining's GitHub stats](https://github-readme-stats-phi-pied-71.vercel.app/api?username=wendaining&hide=contribs,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-phi-pied-71.vercel.app/api/top-langs/?username=wendaining&exclude_repo=wendaining.github.io,cs61a_sp24&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-phi-pied-71.vercel.app/api/top-langs/?username=wendaining&exclude_repo=wendaining.github.io,cs61a_sp24&hide=html,css&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![wendaining's WakaTime stats](https://github-readme-stats-phi-pied-71.vercel.app/api/wakatime?username=wendaining)](https://github.com/anuraghazra/github-readme-stats)
 
