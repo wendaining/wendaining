@@ -4,7 +4,7 @@
 
 Hi! I'm wendaining. Currently a year 2 undergraduate majored in software engineering.
 
-- Fan in anime, Jpop and Vocaloid musics.
+- Fan in anime, Jpop and Vocaloid（ボカロ） musics.
 - passionate about various tech stacks
 
 # Coding
