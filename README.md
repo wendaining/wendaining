@@ -4,7 +4,7 @@
 
 Hi! I'm **wendaining**. Currently a year 2 undergraduate majored in software engineering.
 
-- Exploring Back-End technologies, planning to work in this field after obtaining Bachelor degree.
+- Exploring Back-End technologies.
 - Passionate about various tech stacks  
 - Avid Learner of OpenCourseWare (OCW), dedicated to self-learning  
 - Fan of anime, Vocaloid and J-pop music. 
