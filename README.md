@@ -17,13 +17,13 @@ Hi! I'm **wendaining**. Currently a year 2 undergraduate majored in software eng
 
 #### Toolchains & Frameworks :open_file_folder:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,nodejs,npm,docker,mysql,sqlite,oracle,redis&theme=light&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,nodejs,npm,docker,mysql,sqlite,oracle&theme=light&perline=9)
 
 #### Document & Typesetting :pencil2:
 
 <!-- LaTeX, Typst and Markdown -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,json,regex&theme=light)
+![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,json&theme=light)
 
 #### IDEs, Services & OSes :milky_way:
 
