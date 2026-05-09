@@ -7,6 +7,30 @@ Hi! I'm **wendaining**. Currently a year 2 undergraduate majored in software eng
 - Fan of anime, Vocaloid and J-pop music
 - ... and so on.
 
+## Tech-Stacks & Tools
+
+#### Programming Languages :telescope:
+
+<!-- Programming Languages -->
+
+![](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,go,java,bash&theme=light&perline=9)
+
+#### Toolchains & Frameworks :open_file_folder:
+
+![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,nodejs,npm,docker,mysql,sqlite,oracle,redis&theme=light&perline=9)
+
+#### Document & Typesetting :pencil2:
+
+<!-- LaTeX, Typst and Markdown -->
+
+![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,json,regex&theme=light)
+
+#### IDEs, Services & OSes :milky_way:
+
+![](https://go-skill-icons.vercel.app/api/icons?i=linux,windows,wsl&theme=light)
+
+![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,claude,github,azure,cloudflare,hexo,githubactions&theme=light)
+
 ## Coding
 
 <p align="center">
