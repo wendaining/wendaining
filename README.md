@@ -13,7 +13,7 @@ Hi! I'm **wendaining**. Currently a year 2 undergraduate majored in software eng
 
 <!-- Programming Languages -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=java,go,py,c,cpp,javascript,bash&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=java,go,py,c,cpp,javascript,typescript,bash&perline=9)
 
 #### Toolchains & Frameworks :open_file_folder:
 
@@ -29,7 +29,7 @@ Hi! I'm **wendaining**. Currently a year 2 undergraduate majored in software eng
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=wsl,windows,linux&theme=light)
 
-![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,chatgpt,claude,github,azure,cloudflare,hexo,githubactions)
+![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,chatgpt,claude,deepseek,github,azure,cloudflare,hexo,githubactions)
 
 ## Coding
 
