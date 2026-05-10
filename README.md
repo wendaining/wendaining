@@ -13,23 +13,23 @@ Hi! I'm **wendaining**. Currently a year 2 undergraduate majored in software eng
 
 <!-- Programming Languages -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=java,go,py,c,cpp,javascript,bash&theme=light&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=java,go,py,c,cpp,javascript,bash&perline=9)
 
 #### Toolchains & Frameworks :open_file_folder:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,nodejs,npm,docker,mysql,sqlite,oracle&theme=light&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,nodejs,npm,docker,mysql,sqlite,oracle&perline=9)
 
 #### Document & Typesetting :pencil2:
 
 <!-- LaTeX, Typst and Markdown -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,json&theme=light)
+![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,json)
 
 #### IDEs, Services & OSes :milky_way:
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=wsl,windows,linux&theme=light)
 
-![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,chatgpt,claude,github,azure,cloudflare,hexo,githubactions&theme=light)
+![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,chatgpt,claude,github,azure,cloudflare,hexo,githubactions)
 
 ## Coding
 
