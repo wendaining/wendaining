@@ -23,7 +23,7 @@ Hi! I'm **wendaining**. Currently a year 2 undergraduate majored in software eng
 
 <!-- LaTeX, Typst and Markdown -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=typst,latex,md,html,css,json)
+![](https://go-skill-icons.vercel.app/api/icons?i=md,typst,latex,html,css,json)
 
 #### IDEs, Services & OSes :milky_way:
 
