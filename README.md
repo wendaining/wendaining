@@ -1,7 +1,7 @@
 ## About me
 
-Hi! I'm **wendaining**. Currently an undergraduate student majored in software engineering.
-
+- **wendaining**
+- Currently an undergraduate student majored in software engineering
 - Passionate about various tech stacks
 - Dedicated to self-learning
 - Fan of anime, Vocaloid and J-pop music
