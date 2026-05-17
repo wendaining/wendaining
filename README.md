@@ -1,6 +1,6 @@
 ## About me
 
-Hi! I'm **wendaining**. Currently a year 2 undergraduate majored in software engineering.
+Hi! I'm **wendaining**. Currently an undergraduate student majored in software engineering.
 
 - Passionate about various tech stacks
 - Dedicated to self-learning
