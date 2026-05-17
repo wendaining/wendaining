@@ -29,7 +29,7 @@ Hi! I'm **wendaining**. Currently a year 2 undergraduate majored in software eng
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=wsl,windows,linux&theme=light)
 
-![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,chatgpt,claude,deepseek,github,azure,cloudflare,hexo,githubactions)
+![](https://go-skill-icons.vercel.app/api/icons?i=vscode,zed,idea,chatgpt,claude,deepseek,github,azure,cloudflare,hexo,githubactions)
 
 ## Coding
 
