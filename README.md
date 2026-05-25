@@ -13,7 +13,7 @@
 
 <!-- Programming Languages -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=java,go,py,c,cpp,javascript,typescript,bash&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=java,go,py,c,cpp,cs,javascript,typescript,bash&perline=9)
 
 #### Toolchains & Frameworks :open_file_folder:
 
