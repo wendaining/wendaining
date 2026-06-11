@@ -1,7 +1,7 @@
 ## About me
 
 - **wendaining**
-- Currently an undergraduate student majored in software engineering
+- Currently an undergraduate student majored in software engineering, expected graduation: 2028
 - Passionate about various tech stacks
 - Dedicated to self-learning
 - Fan of anime, Vocaloid and J-pop music
