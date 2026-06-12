@@ -1,6 +1,6 @@
 ## About me
 
-- **wendaining**
+- **wendaining** a.k.a **Kiriao**
 - Currently an undergraduate student majored in software engineering, expected graduation: 2028
 - Passionate about various tech stacks
 - Dedicated to self-learning
