@@ -25,13 +25,13 @@
 
 <!-- LaTeX, Typst and Markdown -->
 
-![](https://go-skill-icons.vercel.app/api/icons?i=md,typst,latex,html,css,json)
+![](https://go-skill-icons.vercel.app/api/icons?i=md,typst,latex,html,css)
 
 #### IDEs, Services & OSes :milky_way:
 
 ![](https://go-skill-icons.vercel.app/api/icons?i=wsl,windows,linux&theme=light)
 
-![](https://go-skill-icons.vercel.app/api/icons?i=vscode,zed,idea,chatgpt,claude,deepseek,github,azure,cloudflare,hexo,githubactions)
+![](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,chatgpt,claude,deepseek,github,azure,cloudflare,hexo,githubactions)
 
 ## Coding
 
