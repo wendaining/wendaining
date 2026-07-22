@@ -19,7 +19,7 @@
 
 #### Toolchains & Frameworks :open_file_folder:
 
-![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,nodejs,npm,docker,mysql,sqlite,oracle&perline=9)
+![](https://go-skill-icons.vercel.app/api/icons?i=git,vue,vite,nodejs,npm,redis,docker,mysql,sqlite,oracle&perline=9)
 
 #### Document & Typesetting :pencil2:
 
