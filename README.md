@@ -7,7 +7,7 @@
 - Fan of anime, Vocaloid and J-pop music
 - ... and so on.
 
-**Welcome to check on my [blog](https://blog.wendaining.top)!**
+**Welcome to check on my [blog](https://blog.wendain.ing)!**
 
 ## Tech-Stacks & Tools
 
