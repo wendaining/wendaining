@@ -9,4 +9,4 @@
 
 ## Reach me
 
-You can contact me via: **wendaining@foxmail.com**
+You can contact me via: **me@wendain.ing**
