@@ -4,8 +4,7 @@
 - Currently an undergraduate student majored in software engineering, expected graduation: 2028
 - Passionate about various tech stacks - Cloud Native, Coding Agents...
 - Fan of anime, Vocaloid and J-pop music
-
-**Learn about me more on [blog](https://blog.wendain.ing/about)!**
+- [Personal Website](https://www.wendain.ing), [blog](https://Blog.wendain.ing)
 
 ## Reach me
 
