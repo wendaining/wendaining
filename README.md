@@ -1,11 +1,11 @@
 ## Hi 👋
 
 - **wendaining**
-- Currently an undergraduate student majored in software engineering, expected graduation: 2028
-- Passionate about various tech stacks - Cloud Native, Coding Agents...
-- Fan of anime, Vocaloid and J-pop music
-- [Personal Website](https://www.wendain.ing), [Blog](https://Blog.wendain.ing)
+- Software Engineering undergraduate, Class of 2028
+- Passionate about exploring new technologies
+- Into anime, Vocaloid, and J-pop
+- [Personal Website](https://www.wendain.ing) · [Blog](https://blog.wendain.ing)
 
-## Reach me
+## Get in Touch
 
-You can contact me via: **me@wendain.ing**
+Feel free to reach out at **me@wendain.ing**.
